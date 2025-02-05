@@ -2,9 +2,8 @@
 
 ### Architecture
 
-
 ### Ingestion Engine
 
-### Classification Model
+### Classifier
 
 ### Stream Processing
